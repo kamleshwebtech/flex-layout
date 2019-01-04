@@ -1,3 +1,21 @@
+<a name="7.0.0-beta.23"></a>
+# [7.0.0-beta.23](https://github.com/angular/flex-layout/compare/7.0.0-beta.22...7.0.0-beta.23) (2019-01-04)
+
+
+### Bug Fixes
+
+* **core:** correctly handle lack of fallback values ([#949](https://github.com/angular/flex-layout/issues/949)) ([01c4148](https://github.com/angular/flex-layout/commit/01c4148)), closes [#947](https://github.com/angular/flex-layout/issues/947)
+* **core:** improve use of breakpoint priorities ([#955](https://github.com/angular/flex-layout/issues/955)) ([d57b293](https://github.com/angular/flex-layout/commit/d57b293)), closes [#648](https://github.com/angular/flex-layout/issues/648) [#426](https://github.com/angular/flex-layout/issues/426)
+* **show-hide:** account for fxLayout on same element ([#948](https://github.com/angular/flex-layout/issues/948)) ([c922ae3](https://github.com/angular/flex-layout/commit/c922ae3)), closes [#945](https://github.com/angular/flex-layout/issues/945)
+* **style:** add SSR capabilities ([#962](https://github.com/angular/flex-layout/issues/962)) ([f82bbc1](https://github.com/angular/flex-layout/commit/f82bbc1)), closes [#813](https://github.com/angular/flex-layout/issues/813)
+
+
+### Features
+
+* **core:** add print support with mediaQuery override ([#954](https://github.com/angular/flex-layout/issues/954)) ([0c9e9cb](https://github.com/angular/flex-layout/commit/0c9e9cb)), closes [#603](https://github.com/angular/flex-layout/issues/603)
+
+
+
 <a name="7.0.0-beta.22"></a>
 # [7.0.0-beta.22](https://github.com/angular/flex-layout/compare/7.0.0-beta.21...7.0.0-beta.22) (2018-12-19)
 
